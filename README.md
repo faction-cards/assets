@@ -1,1 +1,1 @@
-# assets
+# Solana Faction Cards Assets
